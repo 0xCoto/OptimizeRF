@@ -1,0 +1,27 @@
+Motor 1 (center):
+
+In1 -> GPIO5
+In2 -> GPIO6
+In3 -> GPIO13
+In4 -> GPIO26
+
+
+
+Motor 2 (left):
+
+In1 -> GPIO4
+In2 -> GPIO18
+In3 -> GPIO27
+In4 -> GPIO22
+
+
+
+Motor 3 (right):
+
+In1 -> GPIO23
+In2 -> GPIO24
+In3 -> GPIO25
+In4 -> GPIO12
+
+Min: 2900 MHz
+Max: 3350 MHz
